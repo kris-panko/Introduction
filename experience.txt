@@ -1,1 +1,1 @@
-My experience with Java is limited. I will be attending Per Scholas' Java bootcamp and I had taught myself enough Java to pass their HackerRank assisgnment. 
+My experience with Java is limited. I will be attending Per Scholas' Java bootcamp and I had taught myself enough Java to pass their HackerRank assignment. 
